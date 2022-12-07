@@ -1,0 +1,28 @@
+[
+    {
+    "id":"1",
+    "img":"Assets/money-bag.png",
+    "tile": "Silver"
+},
+{
+    "id":"2",
+    "img":"Assets/money-bag.png",
+    "tile": "Gold"
+},    {
+    "id":"3",
+    "img":"Assets/money-bag.png",
+    "tile": "Platinum"
+},    {
+    "id":"4",
+    "img":"Assets/money-bag.png",
+    "tile": "Silver"
+},    {
+    "id":"5",
+    "img":"Assets/money-bag.png",
+    "tile": "Silver"
+},    {
+    "id":"6",
+    "img":"Assets/money-bag.png",
+    "tile": "Silver"
+}
+]
