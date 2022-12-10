@@ -6,6 +6,7 @@
  padding: 12px 12px !important;
 }
 .random-img{
-
-  width: 90px !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
